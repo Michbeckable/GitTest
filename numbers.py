@@ -1,2 +1,5 @@
+sum = 0
 for n in range(80):
-    print n
+    sum = sum + n
+
+print "Summe: %s" % sum
