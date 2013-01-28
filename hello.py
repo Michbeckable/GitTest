@@ -1,1 +1,1 @@
-print "Hello python!"
+print "Hello python and all others!"
